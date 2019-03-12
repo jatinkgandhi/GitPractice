@@ -1,1 +1,2 @@
-This is practice repo.
+Practicing git commands here...
+
